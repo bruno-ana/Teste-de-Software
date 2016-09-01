@@ -1,0 +1,8 @@
+Seleção do arquivo CSV
+SET !DATASOURCE "C:\\Users\\db1007197\\Documents\\iMacros\\Datasources\\Arquivo CPF_01.csv"
+
+Seleção da coluna do arquivo CSV
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:form ATTR=ID:cpf CONTENT={{!COL1}}
+
+Inclusão de espera
+WAIT SECONDS=2
