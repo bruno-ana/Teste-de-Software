@@ -1,0 +1,11 @@
+Importar Script para criação do loop:
+
+1- Abrir a ferramenta Selenium IDE;
+
+2- CLicar em Opções;
+
+3- Em Extensões do Selenium Core (user-extensions.Js), escolher o arquivo JS que consta no projeto;
+
+4- Clicar em Ok;
+
+5- Reiniciar a ferramenta;
